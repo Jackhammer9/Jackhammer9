@@ -2,7 +2,7 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once a day
+    - cron: "0 0 * * *"  # Runs every midnight
   workflow_dispatch:   # Allows manual trigger
 
 jobs:
@@ -19,8 +19,21 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Upload Generated Snake
-        uses: actions/upload-artifact@v4  # Updated from v3 to v4
-        with:
-          name: contribution-grid-snake
-          path: dist/github-contribution-grid-snake.svg
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Create Output Branch
+        run: |
+          git fetch origin
+          git branch output || true
+          git checkout output || git checkout -b output
+          git pull origin output || true
+
+      - name: Push the Generated Snake
+        run: |
+          mkdir -p dist
+          git add -f dist/github-contribution-grid-snake.svg
+          git commit -m "Update GitHub contribution snake animation"
+          git push origin output --force
