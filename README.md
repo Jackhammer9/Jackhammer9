@@ -46,7 +46,7 @@
 
 ## 🐍 Contribution Graph
 
-![Snake Animation](https://github.com/Jackhammer9/Jackhammer9/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Jackhammer9/Jackhammer9/blob/output/dist/github-contribution-grid-snake.svg)
 
 ---
 
