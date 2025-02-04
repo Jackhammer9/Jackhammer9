@@ -20,7 +20,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
       - name: Upload Generated Snake
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4  # Updated from v3 to v4
         with:
           name: contribution-grid-snake
           path: dist/github-contribution-grid-snake.svg
