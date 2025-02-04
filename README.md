@@ -6,8 +6,8 @@
 
 - 🎓 Robotics & Machine Learning Enthusiast
 - 🔬 Working on Ottolink & BrainDance 🧠
-- 🌍 Building things at **Jackhammer Games**
-- 🏋️‍♂️ Gym Rat | 🤖 Robotics Club Lead | 🛠️ DIY Builder
+- 🌍 Building Games at **Jackhammer Games**
+- 🏋️‍♂️ Gym Rat | 🛠️ DIY Builder
 
 ---
 
@@ -39,19 +39,18 @@
 
 ## 🏗️ Projects & Contributions
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnavBajaj&repo=BrainDance&theme=tokyonight)](https://github.com/ArnavBajaj/BrainDance)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnavBajaj&repo=OctoArm&theme=tokyonight)](https://github.com/ArnavBajaj/OctoArm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnavBajaj&repo=BrainDance&theme=tokyonight)](https://github.com/Jackhammer9/RedDownloader)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnavBajaj&repo=OctoArm&theme=tokyonight)](https://github.com/Jackhammer9/Car-Price-Predictor)
 
 ---
 
 ## 🐍 Contribution Graph
 
-![Snake Animation](https://github.com/ArnavBajaj/ArnavBajaj/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Jackhammer9/Jackhammer9/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-bajaj) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnavBajaj) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jackhammer9) 
