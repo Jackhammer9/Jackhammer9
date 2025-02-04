@@ -14,9 +14,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBajaj&show_icons=true&theme=tokyonight" alt="Arnav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavBajaj&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBajaj&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jackhammer9&show_icons=true&theme=tokyonight" alt="Arnav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackhammer9&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackhammer9&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -33,14 +33,14 @@
 
 ## 🏆 Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ArnavBajaj&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jackhammer9&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5)
 
 ---
 
 ## 🏗️ Projects & Contributions
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnavBajaj&repo=BrainDance&theme=tokyonight)](https://github.com/Jackhammer9/RedDownloader)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnavBajaj&repo=OctoArm&theme=tokyonight)](https://github.com/Jackhammer9/Car-Price-Predictor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=RedDownloader&theme=tokyonight)](https://github.com/Jackhammer9/RedDownloader)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=Car-Price-Predictor&theme=tokyonight)](https://github.com/Jackhammer9/Car-Price-Predictor)
 
 ---
 
