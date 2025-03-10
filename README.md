@@ -6,8 +6,6 @@
 
 - 🎓 Robotics & Machine Learning Enthusiast
 - 🔬 Working on Ottolink & BrainDance 🧠
-- 🌍 Building Games at **Jackhammer Games**
-- 🏋️‍♂️ Gym Rat | 🛠️ DIY Builder
 
 ---
 
