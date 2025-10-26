@@ -1,11 +1,29 @@
-# Hi there, I'm Arnav Bajaj 👋
+# Arnav Bajaj
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArnavBajaj&label=Profile%20Views&color=0e75b6&style=flat)
 
-## About Me
+## Snapshot
 
-- Robotics & Machine Learning Student
-- Working on Reduino & BrainDance
+- Robotics and machine learning student exploring the intersection of intelligent software and hardware systems.
+- Building Reduino and BrainDance to push hands-on robotics and neural technology projects forward.
+- Maintaining community tools like RedDownloader within the open-source ecosystem.
+- Comfortable working across Python, TensorFlow, PyTorch, Django, and Arduino to deliver end-to-end solutions.
+
+---
+
+## What I'm Focused On
+
+### Intelligent Robotics
+- Exploring workflows that combine machine learning models with embedded control for responsive systems.
+- Prototyping with Arduino-based builds to validate ideas quickly and iterate on hardware designs.
+
+### Practical Machine Learning
+- Running experiments in TensorFlow and PyTorch to advance robotics-aware intelligence.
+- Translating successful notebooks into reproducible machine learning pipelines.
+
+### Community Projects
+- Continuing to refine RedDownloader and keep it aligned with project goals.
+- Developing Reduino and BrainDance through steady experimentation and documentation.
 
 ---
 
@@ -29,23 +47,24 @@
 
 ---
 
-## Trophies
+## Milestones and Recognition
+
 <div align="center">
-  
+
 ![GitHub Trophies](https://github-profile-trophy-roan.vercel.app/?username=Jackhammer9&theme=buddhism&column=3&margin-w=15&margin-h=15)
 
 </div>
 
 ---
 
-## Projects & Contributions
+## Featured Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=RedDownloader&theme=ambient_gradient)](https://github.com/Jackhammer9/RedDownloader)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=Reduino&theme=ambient_gradient)](https://github.com/Jackhammer9/Reduino)
 
 ---
 
-## Connect with Me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-bajaj) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jackhammer9) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-bajaj)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jackhammer9)
