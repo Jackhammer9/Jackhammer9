@@ -7,7 +7,7 @@
 - Robotics and machine learning student exploring the intersection of intelligent software and hardware systems.
 - Building Reduino and BrainDance to push hands-on robotics and neural technology projects forward.
 - Maintaining community tools like RedDownloader within the open-source ecosystem.
-- Comfortable working across Python, TensorFlow, PyTorch, JAX, Kotlin, and Arduino to deliver end-to-end solutions.
+- Comfortable working across Python, TensorFlow, PyTorch, Django, and Arduino to deliver end-to-end solutions.
 
 ---
 
