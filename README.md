@@ -2,14 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArnavBajaj&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Robotics & Machine Learning Enthusiast
-- 🔬 Working on Ottolink & BrainDance 🧠
+- Robotics & Machine Learning Student
+- Working on Reduino & BrainDance
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jackhammer9&show_icons=true&theme=tokyonight" alt="Arnav's GitHub Stats" width="48%" />
@@ -19,7 +19,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -29,26 +29,20 @@
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jackhammer9&theme=tokyonight&no-bg=true&no-frame=true&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy-roan.vercel.app/?username=Jackhammer9&theme=monokai)
 
 ---
 
-## 🏗️ Projects & Contributions
+## Projects & Contributions
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=RedDownloader&theme=tokyonight)](https://github.com/Jackhammer9/RedDownloader)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=Car-Price-Predictor&theme=tokyonight)](https://github.com/Jackhammer9/Car-Price-Predictor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=Reduino&theme=tokyonight)](https://github.com/Jackhammer9/Reduino)
 
 ---
 
-## 🐍 Contribution Graph
-
-![Snake Animation](https://github.com/Jackhammer9/Jackhammer9/blob/output/dist/github-contribution-grid-snake.svg)
-
----
-
-## 🌍 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-bajaj) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jackhammer9) 
