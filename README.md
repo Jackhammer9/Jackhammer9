@@ -30,8 +30,11 @@
 ---
 
 ## Trophies
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy-roan.vercel.app/?username=Jackhammer9&theme=buddhism&column=3&margin-w=15&margin-h=15)
 
-![GitHub Trophies](https://github-profile-trophy-roan.vercel.app/?username=Jackhammer9&theme=monokai)
+</div>
 
 ---
 
