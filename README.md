@@ -12,9 +12,9 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jackhammer9&show_icons=true&theme=tokyonight" alt="Arnav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackhammer9&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackhammer9&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jackhammer9&show_icons=true&theme=ambient_gradient" alt="Arnav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jackhammer9&theme=ambient_gradient" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackhammer9&layout=compact&theme=ambient_gradient" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -37,8 +37,8 @@
 
 ## Projects & Contributions
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=RedDownloader&theme=tokyonight)](https://github.com/Jackhammer9/RedDownloader)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=Reduino&theme=tokyonight)](https://github.com/Jackhammer9/Reduino)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=RedDownloader&theme=ambient_gradient)](https://github.com/Jackhammer9/RedDownloader)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=Reduino&theme=ambient_gradient)](https://github.com/Jackhammer9/Reduino)
 
 ---
 
