@@ -62,8 +62,8 @@
 
 ## Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=RedDownloader&theme=ambient_gradient)](https://github.com/Jackhammer9/RedDownloader)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=Reduino&theme=ambient_gradient)](https://github.com/Jackhammer9/Reduino)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=RedDownloader&theme=monokai)](https://github.com/Jackhammer9/RedDownloader)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackhammer9&repo=Reduino&theme=monokai)](https://github.com/Jackhammer9/Reduino)
 
 ---
 
