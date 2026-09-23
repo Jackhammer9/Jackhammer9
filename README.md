@@ -56,4 +56,5 @@ Robotics engineering student at THWS, Germany, specializing in real-time embedde
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-bajaj)
-[![Website](https://shields.io)](https://arnav-bajaj.com)
+[![Website](https://img.shields.io/badge/Website-arnav--bajaj.com-blue)](https://arnav-bajaj.com)
+
